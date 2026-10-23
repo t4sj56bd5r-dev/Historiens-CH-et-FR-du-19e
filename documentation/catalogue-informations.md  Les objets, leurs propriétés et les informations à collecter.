@@ -1,1 +1,40 @@
-# catalogue informations
+# Objets (avec leurs propriétés)
+## Personne
+- nom
+- date de naissance
+- lieu de naissance
+- origine
+- formation
+- occupation
+- publications
+
+## Organisation
+- nom
+- type
+- siège
+- fondation
+
+## Lieu
+- nom
+- type
+- coordonnées géographiques
+
+## Œuvre
+- référence bibliographique
+- année de publication
+- lieu de publication
+- période historique traitée
+- thématique principale traitée
+- courant historiographique 
+
+# Relations entre objets
+- personne est née dans lieu
+- personne a vécu dans lieu
+- personne est élève de personne
+- personne partage formation de personne
+- personne traite de la thématique de œuvre 
+- personne publie x nombre de œuvre
+- personne est membre de organisation
+- personne exerce x fonction dans organisation 
+- oeuvre a pour auteur personne
+- oeuvre a lieu de publication
