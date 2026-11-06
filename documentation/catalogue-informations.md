@@ -23,7 +23,7 @@
 ## Publication
 - titre
 - année de publication
-- lieu de publication
+- maison d'édition ou éditeur
 - thématique principale traitée
 
 ## Occupation
@@ -39,6 +39,5 @@
 - personne a exercé occupation
 - personne est auteur de publication 
 - publication a pour auteur personne
-- publication a lieu pour lieu de publication
 - personne est élève de personne
 - personne est enseignant de personne
