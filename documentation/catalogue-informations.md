@@ -5,7 +5,6 @@
 - lieu de naissance
 - origine
 - nationalité
-- formation
 - occupation
 - publications
 
