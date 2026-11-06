@@ -24,4 +24,3 @@ Dans une démarche prosopographique et historiographique, ce travail s'articule 
 - Publications et domaines/sujets auxquels elles se rapportent
 - Figures affiliées à une thématique ou méthodologie de recherche historique
 - Correspondances et réseaux de connaissance
-- Diplômes et certificats obtenus et délivré par quelle institution
