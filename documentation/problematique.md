@@ -5,7 +5,7 @@ Dans une démarche prosopographique et historiographique, ce travail s'articule 
 - Y a-t-il une corrélation ou une spécificité des parcours en fonction du pays d'origine, de la génération ou des origines sociales ?
 - Y a-t-il une relation entre les activités professionnelles et les caractéristiques socio-démographiques?
 - Quelles sont les différences de parcours professionnels et académiques entre les historiens suisses et français du XIXe siècle ?
-- Quelle influences ont eu le parcours de formation sur le parcours professionnel ou les spécialisations des individus ?
+- Quelle influence a eu le parcours de formation sur le parcours professionnel ou les spécialisations des individus ?
 - Quelles relations structurantes on observe entre organisations, quelle évolution dans le temps?
 - Quelles influences de filiation intellectuelle ou de métier, ou rapports maître-élève ou hiérarchiques, structurent le champ dans son évolution temporelle? Voit-on apparaître des écoles ou des mouvements?
 - Comment les facteurs socio-démographiques et les autres aspects structurels du champ influencent la (ou résultent de) la sphère des publications (genres littéraires, thématiques, éditeurs, etc.)?
