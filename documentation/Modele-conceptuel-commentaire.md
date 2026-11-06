@@ -13,14 +13,14 @@ Nom, type, siège, fondation, définition.
 ## Geographical place 
 Classe d'objet qui précise un lieu.
 ### Propriétés
-Nom, type, coordonnées géographiques.
+Nom, type, définition, coordonnées géographiques.
 
 ## Publication
 Décrit ce qu'une ou plusieurs Person ont publié au cours de leur vie.
 ### Propriétés 
 Titre, année de publication, édition, sujet ou thème de la publication, sources, notice.
 
-## Publication Type
+## Publication's Type
 Précise la nature de la Publication et son contenu pour plus de contexte.
 ### Propriétés
 Nom, définition. 
@@ -59,6 +59,8 @@ Nom, définition.
 
 ## Pursuit
 Le fait d'avoir telle occupation ou activité durant telle période. Il s'agit d'une classe temporalité (temporal entity).
+### Propriétés
+Date de début, date de fin, sources.
 ### Relations
 Une Pursuit peut comprendre une et une seule personne, une et une seule occupation (ces deux relations sont nécessaires) et éventuellement on peut associer une (et une seule) organisation auprès de laquelle l'activité est exercée.
 
