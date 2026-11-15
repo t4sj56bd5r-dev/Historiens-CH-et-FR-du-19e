@@ -3,7 +3,7 @@
 ## Person
 Tout être humain.
 ### Propriétés
-Nom standard, date de naissances, éventuellement la date de mort. Le lieu de naissance et l'origine ne déterminant pas automatiquement la nationalité, la séparation des deux propriétés est nécessaire pour répondre à la problématique. Notes. Il s'agit d'une classe objet.
+Nom standard, date de naissances, éventuellement la date de mort. Le lieu de naissance et l'origine ne déterminant pas automatiquement la nationalité, la séparation des deux propriétés est nécessaire pour répondre à la problématique. Genre. Notes. Il s'agit d'une classe objet.
 
 ## Institution
 Classe d'objet se rapportant à une institution à laquelle des membres appartienennent. 
@@ -46,14 +46,14 @@ Nom, type de nom, langage, sources.
 ## Persons' Relationship
 Classe décrivant la relation entre plusieurs Person, qui peuvent être multiples. Le principale type de realtion qui nous intéresse ici est celle d'enseignant-élève.
 ### Propriétés
-Type, date de début, date de fin, sources.
+Date de début, date de fin, sources.
 
 ## Persons' Relationship Type 
 Classe décrivant le type de Relationship décrit plus haut. Il peut y avoir plusieurs Relationship Type pour une même Relationship entre les mêmes Person.
 ### Propriétés
 Nom, définition.
 #### Typologie de relation
-Élève de, Enseignant.e de, Époux.se de, Parent de, Enfant de, Collègue de, Chef de, Subordonné de, Ami.e de, Connaissance de.
+Élève de, Enseignant.e de, Époux.se de, Parent de, Enfant de, Collègue de, Chef.fe de, Subordonné.e de, Ami.e de, Connaissance de.
 
 ## Membership
 Classe qui décrit l'appartenance d'une Person à une Institution.  
